@@ -1,10 +1,6 @@
-### Hi there 👋
 
-# I am Joachim
 
-#### Contact
-
-###### see my email on the side but here's LinkedIn too
+### Hi there 👋! My name is Joachim
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joachimtan/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kushalbhanot" height="60" width="60"/></a> &nbsp;&nbsp;
